@@ -13,7 +13,7 @@
 ### <div align="center">I'm Duchesne Lucas, a senior backend developer👨‍💻</div>  
   
 
-- 🔭 I’m currently open to wrok
+- 🔭 I’m currently work at [Glaaster](https://glaaster.com/)
   
 
 - 🧗 Also a Rock climber   
