@@ -62,10 +62,10 @@ const lucas = {
 <div align="center">
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
@@ -141,10 +141,11 @@ const lucas = {
 
 ## 🌱 Currently Learning & Exploring
 
-- 🦀 Rust for systems programming
-- 🤖 AI/ML integration in backend systems
-- 🔐 Advanced security patterns and zero-trust architecture
-- 📡 Event-driven architectures with Kafka
+- 🤖 **AI/ML Integration** - LangChain, vector databases, RAG patterns
+- 📊 **Observability** - OpenTelemetry, distributed tracing, APM
+- 📈 **Monitoring Stack** - Advanced Grafana dashboards, Loki, Tempo
+- 🔍 **ML Ops** - Model deployment, monitoring, and performance tracking
+- 🧠 **LLM Applications** - Building production-ready AI-powered features
 
 <br/>
 
